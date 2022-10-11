@@ -1,13 +1,13 @@
-##Automate an E-Commerce Web Application
-##Project 1 
+#Automate an E-Commerce Web Application
+Project 1 
 
-#DESCRIPTION
+##DESCRIPTION
 
   To automate a real-world web application
 
  
 
-#Description:
+##Description:
 
   Flipkart is an e-commerce platform, and they have launched a new feature to search for a product in a particular category. Once the product is searched, Flipkart displays it as a list of product items. To enhance the performance of the application, Flipkart has implemented lazy loading. It displays only a few products that can come on the screen.
   To display or load more products, the user must scroll down.
@@ -15,7 +15,7 @@
 
  
 
-#Detailed Scenario:
+##Detailed Scenario:
 
   Navigate to the Flipkart homepage (https://www.flipkart.com/)
   Determine a page load time with a performance test
@@ -28,7 +28,7 @@
   Check whether different browsers and screen resolutions render it the same way
  
 
-#Tools Required:
+##Tools Required:
 
   Selenium Library
   Eclipse IDE
